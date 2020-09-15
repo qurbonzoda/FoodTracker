@@ -17,6 +17,7 @@
 		1B5A034D24FECE40008716CC /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B5A034C24FECE40008716CC /* Meal.swift */; };
 		1B5A034F24FED651008716CC /* MealTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B5A034E24FED651008716CC /* MealTableViewCell.swift */; };
 		1B7D8C212508027000FA606F /* MealTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B7D8C202508027000FA606F /* MealTableViewController.swift */; };
+		1B7EEC2E2511494C00A6FF52 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1B7EEC2D2511494C00A6FF52 /* README.md */; };
 		1BAFE7B224E3177900E47264 /* RatingControll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BAFE7B124E3177900E47264 /* RatingControll.swift */; };
 /* End PBXBuildFile section */
 
@@ -45,6 +46,7 @@
 		1B5A034C24FECE40008716CC /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 		1B5A034E24FED651008716CC /* MealTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealTableViewCell.swift; sourceTree = "<group>"; };
 		1B7D8C202508027000FA606F /* MealTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealTableViewController.swift; sourceTree = "<group>"; };
+		1B7EEC2D2511494C00A6FF52 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1BAFE7B124E3177900E47264 /* RatingControll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControll.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -71,6 +73,7 @@
 			children = (
 				1B032B7424D9CE1F0041F61B /* FoodTracker */,
 				1B032B8B24D9CE210041F61B /* FoodTrackerTests */,
+				1B7EEC2D2511494C00A6FF52 /* README.md */,
 				1B032B7324D9CE1F0041F61B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 			files = (
 				1B032B8224D9CE210041F61B /* LaunchScreen.storyboard in Resources */,
 				1B032B7F24D9CE210041F61B /* Assets.xcassets in Resources */,
+				1B7EEC2E2511494C00A6FF52 /* README.md in Resources */,
 				1B032B7D24D9CE1F0041F61B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
